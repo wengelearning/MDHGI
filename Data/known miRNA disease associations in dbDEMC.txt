@@ -1,0 +1,1815 @@
+hsa-let-7a	Breast Neoplasms
+hsa-let-7b	Breast Neoplasms
+hsa-let-7c	Breast Neoplasms
+hsa-let-7d	Breast Neoplasms
+hsa-let-7e	Breast Neoplasms
+hsa-let-7f	Breast Neoplasms
+hsa-let-7g	Breast Neoplasms
+hsa-let-7i	Breast Neoplasms
+hsa-mir-1	Breast Neoplasms
+hsa-mir-100	Breast Neoplasms
+hsa-mir-101	Breast Neoplasms
+hsa-mir-105	Breast Neoplasms
+hsa-mir-106a	Breast Neoplasms
+hsa-mir-106b	Breast Neoplasms
+hsa-mir-107	Breast Neoplasms
+hsa-mir-10a	Breast Neoplasms
+hsa-mir-10b	Breast Neoplasms
+hsa-mir-122	Breast Neoplasms
+hsa-mir-124	Breast Neoplasms
+hsa-mir-125a	Breast Neoplasms
+hsa-mir-126	Breast Neoplasms
+hsa-mir-127	Breast Neoplasms
+hsa-mir-128	Breast Neoplasms
+hsa-mir-129	Breast Neoplasms
+hsa-mir-130a	Breast Neoplasms
+hsa-mir-130b	Breast Neoplasms
+hsa-mir-132	Breast Neoplasms
+hsa-mir-133a	Breast Neoplasms
+hsa-mir-133b	Breast Neoplasms
+hsa-mir-134	Breast Neoplasms
+hsa-mir-135a	Breast Neoplasms
+hsa-mir-135b	Breast Neoplasms
+hsa-mir-136	Breast Neoplasms
+hsa-mir-137	Breast Neoplasms
+hsa-mir-138	Breast Neoplasms
+hsa-mir-139	Breast Neoplasms
+hsa-mir-140	Breast Neoplasms
+hsa-mir-141	Breast Neoplasms
+hsa-mir-143	Breast Neoplasms
+hsa-mir-144	Breast Neoplasms
+hsa-mir-145	Breast Neoplasms
+hsa-mir-146a	Breast Neoplasms
+hsa-mir-146b	Breast Neoplasms
+hsa-mir-148a	Breast Neoplasms
+hsa-mir-148b	Breast Neoplasms
+hsa-mir-149	Breast Neoplasms
+hsa-mir-150	Breast Neoplasms
+hsa-mir-152	Breast Neoplasms
+hsa-mir-153	Breast Neoplasms
+hsa-mir-154	Breast Neoplasms
+hsa-mir-155	Breast Neoplasms
+hsa-mir-15a	Breast Neoplasms
+hsa-mir-15b	Breast Neoplasms
+hsa-mir-16	Breast Neoplasms
+hsa-mir-181a	Breast Neoplasms
+hsa-mir-181b	Breast Neoplasms
+hsa-mir-181c	Breast Neoplasms
+hsa-mir-181d	Breast Neoplasms
+hsa-mir-182	Breast Neoplasms
+hsa-mir-183	Breast Neoplasms
+hsa-mir-184	Breast Neoplasms
+hsa-mir-185	Breast Neoplasms
+hsa-mir-186	Breast Neoplasms
+hsa-mir-187	Breast Neoplasms
+hsa-mir-188	Breast Neoplasms
+hsa-mir-189	Breast Neoplasms
+hsa-mir-18a	Breast Neoplasms
+hsa-mir-18b	Breast Neoplasms
+hsa-mir-191	Breast Neoplasms
+hsa-mir-192	Breast Neoplasms
+hsa-mir-193a	Breast Neoplasms
+hsa-mir-193b	Breast Neoplasms
+hsa-mir-194	Breast Neoplasms
+hsa-mir-195	Breast Neoplasms
+hsa-mir-196a	Breast Neoplasms
+hsa-mir-196b	Breast Neoplasms
+hsa-mir-197	Breast Neoplasms
+hsa-mir-198	Breast Neoplasms
+hsa-mir-199a	Breast Neoplasms
+hsa-mir-199b	Breast Neoplasms
+hsa-mir-19a	Breast Neoplasms
+hsa-mir-19b	Breast Neoplasms
+hsa-mir-200a	Breast Neoplasms
+hsa-mir-200b	Breast Neoplasms
+hsa-mir-200c	Breast Neoplasms
+hsa-mir-202	Breast Neoplasms
+hsa-mir-203	Breast Neoplasms
+hsa-mir-204	Breast Neoplasms
+hsa-mir-205	Breast Neoplasms
+hsa-mir-206	Breast Neoplasms
+hsa-mir-21	Breast Neoplasms
+hsa-mir-210	Breast Neoplasms
+hsa-mir-211	Breast Neoplasms
+hsa-mir-212	Breast Neoplasms
+hsa-mir-214	Breast Neoplasms
+hsa-mir-215	Breast Neoplasms
+hsa-mir-217	Breast Neoplasms
+hsa-mir-218	Breast Neoplasms
+hsa-mir-219	Breast Neoplasms
+hsa-mir-22	Breast Neoplasms
+hsa-mir-221	Breast Neoplasms
+hsa-mir-222	Breast Neoplasms
+hsa-mir-223	Breast Neoplasms
+hsa-mir-224	Breast Neoplasms
+hsa-mir-23a	Breast Neoplasms
+hsa-mir-23b	Breast Neoplasms
+hsa-mir-24	Breast Neoplasms
+hsa-mir-25	Breast Neoplasms
+hsa-mir-26a	Breast Neoplasms
+hsa-mir-26b	Breast Neoplasms
+hsa-mir-27a	Breast Neoplasms
+hsa-mir-27b	Breast Neoplasms
+hsa-mir-28	Breast Neoplasms
+hsa-mir-296	Breast Neoplasms
+hsa-mir-299	Breast Neoplasms
+hsa-mir-29a	Breast Neoplasms
+hsa-mir-29b	Breast Neoplasms
+hsa-mir-29c	Breast Neoplasms
+hsa-mir-302a	Breast Neoplasms
+hsa-mir-302b	Breast Neoplasms
+hsa-mir-302c	Breast Neoplasms
+hsa-mir-302d	Breast Neoplasms
+hsa-mir-30b	Breast Neoplasms
+hsa-mir-30c	Breast Neoplasms
+hsa-mir-30d	Breast Neoplasms
+hsa-mir-31	Breast Neoplasms
+hsa-mir-32	Breast Neoplasms
+hsa-mir-325	Breast Neoplasms
+hsa-mir-326	Breast Neoplasms
+hsa-mir-328	Breast Neoplasms
+hsa-mir-329	Breast Neoplasms
+hsa-mir-330	Breast Neoplasms
+hsa-mir-331	Breast Neoplasms
+hsa-mir-335	Breast Neoplasms
+hsa-mir-337	Breast Neoplasms
+hsa-mir-338	Breast Neoplasms
+hsa-mir-339	Breast Neoplasms
+hsa-mir-340	Breast Neoplasms
+hsa-mir-342	Breast Neoplasms
+hsa-mir-345	Breast Neoplasms
+hsa-mir-346	Breast Neoplasms
+hsa-mir-34a	Breast Neoplasms
+hsa-mir-34b	Breast Neoplasms
+hsa-mir-34c	Breast Neoplasms
+hsa-mir-361	Breast Neoplasms
+hsa-mir-362	Breast Neoplasms
+hsa-mir-363	Breast Neoplasms
+hsa-mir-367	Breast Neoplasms
+hsa-mir-369	Breast Neoplasms
+hsa-mir-370	Breast Neoplasms
+hsa-mir-371	Breast Neoplasms
+hsa-mir-372	Breast Neoplasms
+hsa-mir-373	Breast Neoplasms
+hsa-mir-375	Breast Neoplasms
+hsa-mir-376a	Breast Neoplasms
+hsa-mir-376b	Breast Neoplasms
+hsa-mir-377	Breast Neoplasms
+hsa-mir-379	Breast Neoplasms
+hsa-mir-381	Breast Neoplasms
+hsa-mir-382	Breast Neoplasms
+hsa-mir-383	Breast Neoplasms
+hsa-mir-410	Breast Neoplasms
+hsa-mir-411	Breast Neoplasms
+hsa-mir-421	Breast Neoplasms
+hsa-mir-422a	Breast Neoplasms
+hsa-mir-424	Breast Neoplasms
+hsa-mir-429	Breast Neoplasms
+hsa-mir-431	Breast Neoplasms
+hsa-mir-432	Breast Neoplasms
+hsa-mir-433	Breast Neoplasms
+hsa-mir-448	Breast Neoplasms
+hsa-mir-451	Breast Neoplasms
+hsa-mir-452	Breast Neoplasms
+hsa-mir-455	Breast Neoplasms
+hsa-mir-483	Breast Neoplasms
+hsa-mir-484	Breast Neoplasms
+hsa-mir-486	Breast Neoplasms
+hsa-mir-487a	Breast Neoplasms
+hsa-mir-487b	Breast Neoplasms
+hsa-mir-489	Breast Neoplasms
+hsa-mir-490	Breast Neoplasms
+hsa-mir-491	Breast Neoplasms
+hsa-mir-492	Breast Neoplasms
+hsa-mir-495	Breast Neoplasms
+hsa-mir-497	Breast Neoplasms
+hsa-mir-498	Breast Neoplasms
+hsa-mir-501	Breast Neoplasms
+hsa-mir-502	Breast Neoplasms
+hsa-mir-503	Breast Neoplasms
+hsa-mir-504	Breast Neoplasms
+hsa-mir-505	Breast Neoplasms
+hsa-mir-508	Breast Neoplasms
+hsa-mir-510	Breast Neoplasms
+hsa-mir-517a	Breast Neoplasms
+hsa-mir-517c	Breast Neoplasms
+hsa-mir-518a	Breast Neoplasms
+hsa-mir-518c	Breast Neoplasms
+hsa-mir-518e	Breast Neoplasms
+hsa-mir-518f	Breast Neoplasms
+hsa-mir-519b	Breast Neoplasms
+hsa-mir-519c	Breast Neoplasms
+hsa-mir-519e	Breast Neoplasms
+hsa-mir-520a	Breast Neoplasms
+hsa-mir-520b	Breast Neoplasms
+hsa-mir-520d	Breast Neoplasms
+hsa-mir-520e	Breast Neoplasms
+hsa-mir-520f	Breast Neoplasms
+hsa-mir-521	Breast Neoplasms
+hsa-mir-523	Breast Neoplasms
+hsa-mir-524	Breast Neoplasms
+hsa-mir-525	Breast Neoplasms
+hsa-mir-526a	Breast Neoplasms
+hsa-mir-526b	Breast Neoplasms
+hsa-mir-527	Breast Neoplasms
+hsa-mir-532	Breast Neoplasms
+hsa-mir-539	Breast Neoplasms
+hsa-mir-545	Breast Neoplasms
+hsa-mir-551a	Breast Neoplasms
+hsa-mir-557	Breast Neoplasms
+hsa-mir-564	Breast Neoplasms
+hsa-mir-566	Breast Neoplasms
+hsa-mir-567	Breast Neoplasms
+hsa-mir-570	Breast Neoplasms
+hsa-mir-572	Breast Neoplasms
+hsa-mir-574	Breast Neoplasms
+hsa-mir-575	Breast Neoplasms
+hsa-mir-582	Breast Neoplasms
+hsa-mir-583	Breast Neoplasms
+hsa-mir-584	Breast Neoplasms
+hsa-mir-589	Breast Neoplasms
+hsa-mir-590	Breast Neoplasms
+hsa-mir-593	Breast Neoplasms
+hsa-mir-595	Breast Neoplasms
+hsa-mir-598	Breast Neoplasms
+hsa-mir-600	Breast Neoplasms
+hsa-mir-601	Breast Neoplasms
+hsa-mir-602	Breast Neoplasms
+hsa-mir-603	Breast Neoplasms
+hsa-mir-608	Breast Neoplasms
+hsa-mir-610	Breast Neoplasms
+hsa-mir-612	Breast Neoplasms
+hsa-mir-614	Breast Neoplasms
+hsa-mir-615	Breast Neoplasms
+hsa-mir-616	Breast Neoplasms
+hsa-mir-617	Breast Neoplasms
+hsa-mir-619	Breast Neoplasms
+hsa-mir-621	Breast Neoplasms
+hsa-mir-622	Breast Neoplasms
+hsa-mir-624	Breast Neoplasms
+hsa-mir-625	Breast Neoplasms
+hsa-mir-627	Breast Neoplasms
+hsa-mir-628	Breast Neoplasms
+hsa-mir-629	Breast Neoplasms
+hsa-mir-630	Breast Neoplasms
+hsa-mir-637	Breast Neoplasms
+hsa-mir-638	Breast Neoplasms
+hsa-mir-641	Breast Neoplasms
+hsa-mir-647	Breast Neoplasms
+hsa-mir-648	Breast Neoplasms
+hsa-mir-650	Breast Neoplasms
+hsa-mir-652	Breast Neoplasms
+hsa-mir-654	Breast Neoplasms
+hsa-mir-657	Breast Neoplasms
+hsa-mir-658	Breast Neoplasms
+hsa-mir-659	Breast Neoplasms
+hsa-mir-660	Breast Neoplasms
+hsa-mir-661	Breast Neoplasms
+hsa-mir-662	Breast Neoplasms
+hsa-mir-663	Breast Neoplasms
+hsa-mir-668	Breast Neoplasms
+hsa-mir-671	Breast Neoplasms
+hsa-mir-7	Breast Neoplasms
+hsa-mir-758	Breast Neoplasms
+hsa-mir-765	Breast Neoplasms
+hsa-mir-766	Breast Neoplasms
+hsa-mir-9	Breast Neoplasms
+hsa-mir-92	Breast Neoplasms
+hsa-mir-92b	Breast Neoplasms
+hsa-mir-93	Breast Neoplasms
+hsa-mir-95	Breast Neoplasms
+hsa-mir-96	Breast Neoplasms
+hsa-mir-98	Breast Neoplasms
+hsa-mir-99a	Breast Neoplasms
+hsa-mir-99b	Breast Neoplasms
+hsa-let-7a	Colon Neoplasms
+hsa-let-7b	Colon Neoplasms
+hsa-let-7c	Colon Neoplasms
+hsa-let-7d	Colon Neoplasms
+hsa-let-7e	Colon Neoplasms
+hsa-let-7f	Colon Neoplasms
+hsa-let-7g	Colon Neoplasms
+hsa-let-7i	Colon Neoplasms
+hsa-mir-1	Colon Neoplasms
+hsa-mir-100	Colon Neoplasms
+hsa-mir-105	Colon Neoplasms
+hsa-mir-106a	Colon Neoplasms
+hsa-mir-106b	Colon Neoplasms
+hsa-mir-107	Colon Neoplasms
+hsa-mir-10b	Colon Neoplasms
+hsa-mir-124	Colon Neoplasms
+hsa-mir-125a	Colon Neoplasms
+hsa-mir-125b	Colon Neoplasms
+hsa-mir-126	Colon Neoplasms
+hsa-mir-127	Colon Neoplasms
+hsa-mir-128	Colon Neoplasms
+hsa-mir-129	Colon Neoplasms
+hsa-mir-130b	Colon Neoplasms
+hsa-mir-133a	Colon Neoplasms
+hsa-mir-133b	Colon Neoplasms
+hsa-mir-135a	Colon Neoplasms
+hsa-mir-135b	Colon Neoplasms
+hsa-mir-137	Colon Neoplasms
+hsa-mir-138	Colon Neoplasms
+hsa-mir-139	Colon Neoplasms
+hsa-mir-141	Colon Neoplasms
+hsa-mir-143	Colon Neoplasms
+hsa-mir-145	Colon Neoplasms
+hsa-mir-146a	Colon Neoplasms
+hsa-mir-148a	Colon Neoplasms
+hsa-mir-149	Colon Neoplasms
+hsa-mir-152	Colon Neoplasms
+hsa-mir-155	Colon Neoplasms
+hsa-mir-15a	Colon Neoplasms
+hsa-mir-16	Colon Neoplasms
+hsa-mir-17	Colon Neoplasms
+hsa-mir-181a	Colon Neoplasms
+hsa-mir-181b	Colon Neoplasms
+hsa-mir-181c	Colon Neoplasms
+hsa-mir-182	Colon Neoplasms
+hsa-mir-183	Colon Neoplasms
+hsa-mir-184	Colon Neoplasms
+hsa-mir-185	Colon Neoplasms
+hsa-mir-187	Colon Neoplasms
+hsa-mir-188	Colon Neoplasms
+hsa-mir-189	Colon Neoplasms
+hsa-mir-18a	Colon Neoplasms
+hsa-mir-191	Colon Neoplasms
+hsa-mir-192	Colon Neoplasms
+hsa-mir-194	Colon Neoplasms
+hsa-mir-195	Colon Neoplasms
+hsa-mir-196a	Colon Neoplasms
+hsa-mir-196b	Colon Neoplasms
+hsa-mir-197	Colon Neoplasms
+hsa-mir-198	Colon Neoplasms
+hsa-mir-199b	Colon Neoplasms
+hsa-mir-19a	Colon Neoplasms
+hsa-mir-19b	Colon Neoplasms
+hsa-mir-200b	Colon Neoplasms
+hsa-mir-200c	Colon Neoplasms
+hsa-mir-202	Colon Neoplasms
+hsa-mir-203	Colon Neoplasms
+hsa-mir-204	Colon Neoplasms
+hsa-mir-205	Colon Neoplasms
+hsa-mir-206	Colon Neoplasms
+hsa-mir-20a	Colon Neoplasms
+hsa-mir-21	Colon Neoplasms
+hsa-mir-210	Colon Neoplasms
+hsa-mir-211	Colon Neoplasms
+hsa-mir-212	Colon Neoplasms
+hsa-mir-214	Colon Neoplasms
+hsa-mir-215	Colon Neoplasms
+hsa-mir-218	Colon Neoplasms
+hsa-mir-219	Colon Neoplasms
+hsa-mir-22	Colon Neoplasms
+hsa-mir-221	Colon Neoplasms
+hsa-mir-222	Colon Neoplasms
+hsa-mir-223	Colon Neoplasms
+hsa-mir-224	Colon Neoplasms
+hsa-mir-25	Colon Neoplasms
+hsa-mir-26a	Colon Neoplasms
+hsa-mir-27b	Colon Neoplasms
+hsa-mir-29a	Colon Neoplasms
+hsa-mir-29b	Colon Neoplasms
+hsa-mir-29c	Colon Neoplasms
+hsa-mir-302a	Colon Neoplasms
+hsa-mir-30b	Colon Neoplasms
+hsa-mir-30c	Colon Neoplasms
+hsa-mir-30d	Colon Neoplasms
+hsa-mir-31	Colon Neoplasms
+hsa-mir-32	Colon Neoplasms
+hsa-mir-324	Colon Neoplasms
+hsa-mir-326	Colon Neoplasms
+hsa-mir-328	Colon Neoplasms
+hsa-mir-330	Colon Neoplasms
+hsa-mir-331	Colon Neoplasms
+hsa-mir-335	Colon Neoplasms
+hsa-mir-337	Colon Neoplasms
+hsa-mir-338	Colon Neoplasms
+hsa-mir-339	Colon Neoplasms
+hsa-mir-33b	Colon Neoplasms
+hsa-mir-340	Colon Neoplasms
+hsa-mir-345	Colon Neoplasms
+hsa-mir-346	Colon Neoplasms
+hsa-mir-34a	Colon Neoplasms
+hsa-mir-34b	Colon Neoplasms
+hsa-mir-371	Colon Neoplasms
+hsa-mir-373	Colon Neoplasms
+hsa-mir-379	Colon Neoplasms
+hsa-mir-410	Colon Neoplasms
+hsa-mir-422a	Colon Neoplasms
+hsa-mir-424	Colon Neoplasms
+hsa-mir-429	Colon Neoplasms
+hsa-mir-432	Colon Neoplasms
+hsa-mir-452	Colon Neoplasms
+hsa-mir-488	Colon Neoplasms
+hsa-mir-490	Colon Neoplasms
+hsa-mir-494	Colon Neoplasms
+hsa-mir-497	Colon Neoplasms
+hsa-mir-498	Colon Neoplasms
+hsa-mir-503	Colon Neoplasms
+hsa-mir-517a	Colon Neoplasms
+hsa-mir-7	Colon Neoplasms
+hsa-mir-9	Colon Neoplasms
+hsa-mir-92	Colon Neoplasms
+hsa-mir-93	Colon Neoplasms
+hsa-mir-95	Colon Neoplasms
+hsa-mir-96	Colon Neoplasms
+hsa-mir-99a	Colon Neoplasms
+hsa-mir-99b	Colon Neoplasms
+hsa-let-7a	Colonic Neoplasms
+hsa-let-7b	Colonic Neoplasms
+hsa-let-7c	Colonic Neoplasms
+hsa-let-7d	Colonic Neoplasms
+hsa-let-7e	Colonic Neoplasms
+hsa-let-7f	Colonic Neoplasms
+hsa-let-7g	Colonic Neoplasms
+hsa-let-7i	Colonic Neoplasms
+hsa-mir-1	Colonic Neoplasms
+hsa-mir-100	Colonic Neoplasms
+hsa-mir-105	Colonic Neoplasms
+hsa-mir-106a	Colonic Neoplasms
+hsa-mir-106b	Colonic Neoplasms
+hsa-mir-107	Colonic Neoplasms
+hsa-mir-10b	Colonic Neoplasms
+hsa-mir-124	Colonic Neoplasms
+hsa-mir-125a	Colonic Neoplasms
+hsa-mir-125b	Colonic Neoplasms
+hsa-mir-126	Colonic Neoplasms
+hsa-mir-127	Colonic Neoplasms
+hsa-mir-128	Colonic Neoplasms
+hsa-mir-129	Colonic Neoplasms
+hsa-mir-130b	Colonic Neoplasms
+hsa-mir-133a	Colonic Neoplasms
+hsa-mir-133b	Colonic Neoplasms
+hsa-mir-135a	Colonic Neoplasms
+hsa-mir-135b	Colonic Neoplasms
+hsa-mir-137	Colonic Neoplasms
+hsa-mir-138	Colonic Neoplasms
+hsa-mir-139	Colonic Neoplasms
+hsa-mir-141	Colonic Neoplasms
+hsa-mir-143	Colonic Neoplasms
+hsa-mir-145	Colonic Neoplasms
+hsa-mir-146a	Colonic Neoplasms
+hsa-mir-148a	Colonic Neoplasms
+hsa-mir-149	Colonic Neoplasms
+hsa-mir-152	Colonic Neoplasms
+hsa-mir-155	Colonic Neoplasms
+hsa-mir-15a	Colonic Neoplasms
+hsa-mir-16	Colonic Neoplasms
+hsa-mir-17	Colonic Neoplasms
+hsa-mir-181a	Colonic Neoplasms
+hsa-mir-181b	Colonic Neoplasms
+hsa-mir-181c	Colonic Neoplasms
+hsa-mir-182	Colonic Neoplasms
+hsa-mir-183	Colonic Neoplasms
+hsa-mir-184	Colonic Neoplasms
+hsa-mir-185	Colonic Neoplasms
+hsa-mir-187	Colonic Neoplasms
+hsa-mir-188	Colonic Neoplasms
+hsa-mir-189	Colonic Neoplasms
+hsa-mir-18a	Colonic Neoplasms
+hsa-mir-191	Colonic Neoplasms
+hsa-mir-192	Colonic Neoplasms
+hsa-mir-194	Colonic Neoplasms
+hsa-mir-195	Colonic Neoplasms
+hsa-mir-196a	Colonic Neoplasms
+hsa-mir-196b	Colonic Neoplasms
+hsa-mir-197	Colonic Neoplasms
+hsa-mir-198	Colonic Neoplasms
+hsa-mir-199b	Colonic Neoplasms
+hsa-mir-19a	Colonic Neoplasms
+hsa-mir-19b	Colonic Neoplasms
+hsa-mir-200b	Colonic Neoplasms
+hsa-mir-200c	Colonic Neoplasms
+hsa-mir-202	Colonic Neoplasms
+hsa-mir-203	Colonic Neoplasms
+hsa-mir-204	Colonic Neoplasms
+hsa-mir-205	Colonic Neoplasms
+hsa-mir-206	Colonic Neoplasms
+hsa-mir-20a	Colonic Neoplasms
+hsa-mir-21	Colonic Neoplasms
+hsa-mir-210	Colonic Neoplasms
+hsa-mir-211	Colonic Neoplasms
+hsa-mir-212	Colonic Neoplasms
+hsa-mir-214	Colonic Neoplasms
+hsa-mir-215	Colonic Neoplasms
+hsa-mir-218	Colonic Neoplasms
+hsa-mir-219	Colonic Neoplasms
+hsa-mir-22	Colonic Neoplasms
+hsa-mir-221	Colonic Neoplasms
+hsa-mir-222	Colonic Neoplasms
+hsa-mir-223	Colonic Neoplasms
+hsa-mir-224	Colonic Neoplasms
+hsa-mir-25	Colonic Neoplasms
+hsa-mir-26a	Colonic Neoplasms
+hsa-mir-27b	Colonic Neoplasms
+hsa-mir-29a	Colonic Neoplasms
+hsa-mir-29b	Colonic Neoplasms
+hsa-mir-29c	Colonic Neoplasms
+hsa-mir-302a	Colonic Neoplasms
+hsa-mir-30b	Colonic Neoplasms
+hsa-mir-30c	Colonic Neoplasms
+hsa-mir-30d	Colonic Neoplasms
+hsa-mir-31	Colonic Neoplasms
+hsa-mir-32	Colonic Neoplasms
+hsa-mir-324	Colonic Neoplasms
+hsa-mir-326	Colonic Neoplasms
+hsa-mir-328	Colonic Neoplasms
+hsa-mir-330	Colonic Neoplasms
+hsa-mir-331	Colonic Neoplasms
+hsa-mir-335	Colonic Neoplasms
+hsa-mir-337	Colonic Neoplasms
+hsa-mir-338	Colonic Neoplasms
+hsa-mir-339	Colonic Neoplasms
+hsa-mir-33b	Colonic Neoplasms
+hsa-mir-340	Colonic Neoplasms
+hsa-mir-345	Colonic Neoplasms
+hsa-mir-346	Colonic Neoplasms
+hsa-mir-34a	Colonic Neoplasms
+hsa-mir-34b	Colonic Neoplasms
+hsa-mir-371	Colonic Neoplasms
+hsa-mir-373	Colonic Neoplasms
+hsa-mir-379	Colonic Neoplasms
+hsa-mir-410	Colonic Neoplasms
+hsa-mir-422a	Colonic Neoplasms
+hsa-mir-424	Colonic Neoplasms
+hsa-mir-429	Colonic Neoplasms
+hsa-mir-432	Colonic Neoplasms
+hsa-mir-452	Colonic Neoplasms
+hsa-mir-488	Colonic Neoplasms
+hsa-mir-490	Colonic Neoplasms
+hsa-mir-494	Colonic Neoplasms
+hsa-mir-497	Colonic Neoplasms
+hsa-mir-498	Colonic Neoplasms
+hsa-mir-503	Colonic Neoplasms
+hsa-mir-517a	Colonic Neoplasms
+hsa-mir-7	Colonic Neoplasms
+hsa-mir-9	Colonic Neoplasms
+hsa-mir-92	Colonic Neoplasms
+hsa-mir-93	Colonic Neoplasms
+hsa-mir-95	Colonic Neoplasms
+hsa-mir-96	Colonic Neoplasms
+hsa-mir-99a	Colonic Neoplasms
+hsa-mir-99b	Colonic Neoplasms
+hsa-let-7a	Esophageal Neoplasms
+hsa-let-7b	Esophageal Neoplasms
+hsa-let-7c	Esophageal Neoplasms
+hsa-let-7d	Esophageal Neoplasms
+hsa-let-7e	Esophageal Neoplasms
+hsa-let-7g	Esophageal Neoplasms
+hsa-let-7i	Esophageal Neoplasms
+hsa-mir-1	Esophageal Neoplasms
+hsa-mir-100	Esophageal Neoplasms
+hsa-mir-101	Esophageal Neoplasms
+hsa-mir-106a	Esophageal Neoplasms
+hsa-mir-106b	Esophageal Neoplasms
+hsa-mir-107	Esophageal Neoplasms
+hsa-mir-10a	Esophageal Neoplasms
+hsa-mir-10b	Esophageal Neoplasms
+hsa-mir-124	Esophageal Neoplasms
+hsa-mir-125a	Esophageal Neoplasms
+hsa-mir-125b	Esophageal Neoplasms
+hsa-mir-126	Esophageal Neoplasms
+hsa-mir-127	Esophageal Neoplasms
+hsa-mir-128	Esophageal Neoplasms
+hsa-mir-129	Esophageal Neoplasms
+hsa-mir-130a	Esophageal Neoplasms
+hsa-mir-130b	Esophageal Neoplasms
+hsa-mir-132	Esophageal Neoplasms
+hsa-mir-133a	Esophageal Neoplasms
+hsa-mir-133b	Esophageal Neoplasms
+hsa-mir-134	Esophageal Neoplasms
+hsa-mir-135a	Esophageal Neoplasms
+hsa-mir-135b	Esophageal Neoplasms
+hsa-mir-136	Esophageal Neoplasms
+hsa-mir-137	Esophageal Neoplasms
+hsa-mir-139	Esophageal Neoplasms
+hsa-mir-140	Esophageal Neoplasms
+hsa-mir-141	Esophageal Neoplasms
+hsa-mir-142	Esophageal Neoplasms
+hsa-mir-143	Esophageal Neoplasms
+hsa-mir-144	Esophageal Neoplasms
+hsa-mir-145	Esophageal Neoplasms
+hsa-mir-146a	Esophageal Neoplasms
+hsa-mir-146b	Esophageal Neoplasms
+hsa-mir-147b	Esophageal Neoplasms
+hsa-mir-148a	Esophageal Neoplasms
+hsa-mir-148b	Esophageal Neoplasms
+hsa-mir-149	Esophageal Neoplasms
+hsa-mir-150	Esophageal Neoplasms
+hsa-mir-151	Esophageal Neoplasms
+hsa-mir-152	Esophageal Neoplasms
+hsa-mir-153	Esophageal Neoplasms
+hsa-mir-154	Esophageal Neoplasms
+hsa-mir-155	Esophageal Neoplasms
+hsa-mir-15a	Esophageal Neoplasms
+hsa-mir-15b	Esophageal Neoplasms
+hsa-mir-16	Esophageal Neoplasms
+hsa-mir-17	Esophageal Neoplasms
+hsa-mir-181a	Esophageal Neoplasms
+hsa-mir-181b	Esophageal Neoplasms
+hsa-mir-181c	Esophageal Neoplasms
+hsa-mir-181d	Esophageal Neoplasms
+hsa-mir-182	Esophageal Neoplasms
+hsa-mir-183	Esophageal Neoplasms
+hsa-mir-185	Esophageal Neoplasms
+hsa-mir-186	Esophageal Neoplasms
+hsa-mir-187	Esophageal Neoplasms
+hsa-mir-188	Esophageal Neoplasms
+hsa-mir-189	Esophageal Neoplasms
+hsa-mir-18a	Esophageal Neoplasms
+hsa-mir-18b	Esophageal Neoplasms
+hsa-mir-191	Esophageal Neoplasms
+hsa-mir-192	Esophageal Neoplasms
+hsa-mir-193a	Esophageal Neoplasms
+hsa-mir-193b	Esophageal Neoplasms
+hsa-mir-194	Esophageal Neoplasms
+hsa-mir-195	Esophageal Neoplasms
+hsa-mir-196a	Esophageal Neoplasms
+hsa-mir-196b	Esophageal Neoplasms
+hsa-mir-197	Esophageal Neoplasms
+hsa-mir-198	Esophageal Neoplasms
+hsa-mir-199a	Esophageal Neoplasms
+hsa-mir-199b	Esophageal Neoplasms
+hsa-mir-19a	Esophageal Neoplasms
+hsa-mir-19b	Esophageal Neoplasms
+hsa-mir-200a	Esophageal Neoplasms
+hsa-mir-200b	Esophageal Neoplasms
+hsa-mir-200c	Esophageal Neoplasms
+hsa-mir-202	Esophageal Neoplasms
+hsa-mir-203	Esophageal Neoplasms
+hsa-mir-205	Esophageal Neoplasms
+hsa-mir-206	Esophageal Neoplasms
+hsa-mir-20a	Esophageal Neoplasms
+hsa-mir-20b	Esophageal Neoplasms
+hsa-mir-21	Esophageal Neoplasms
+hsa-mir-210	Esophageal Neoplasms
+hsa-mir-211	Esophageal Neoplasms
+hsa-mir-214	Esophageal Neoplasms
+hsa-mir-215	Esophageal Neoplasms
+hsa-mir-22	Esophageal Neoplasms
+hsa-mir-221	Esophageal Neoplasms
+hsa-mir-222	Esophageal Neoplasms
+hsa-mir-223	Esophageal Neoplasms
+hsa-mir-224	Esophageal Neoplasms
+hsa-mir-23a	Esophageal Neoplasms
+hsa-mir-23b	Esophageal Neoplasms
+hsa-mir-24	Esophageal Neoplasms
+hsa-mir-25	Esophageal Neoplasms
+hsa-mir-26a	Esophageal Neoplasms
+hsa-mir-26b	Esophageal Neoplasms
+hsa-mir-27a	Esophageal Neoplasms
+hsa-mir-27b	Esophageal Neoplasms
+hsa-mir-28	Esophageal Neoplasms
+hsa-mir-299	Esophageal Neoplasms
+hsa-mir-29a	Esophageal Neoplasms
+hsa-mir-29b	Esophageal Neoplasms
+hsa-mir-29c	Esophageal Neoplasms
+hsa-mir-301a	Esophageal Neoplasms
+hsa-mir-302b	Esophageal Neoplasms
+hsa-mir-302c	Esophageal Neoplasms
+hsa-mir-302d	Esophageal Neoplasms
+hsa-mir-30a	Esophageal Neoplasms
+hsa-mir-30b	Esophageal Neoplasms
+hsa-mir-30c	Esophageal Neoplasms
+hsa-mir-30d	Esophageal Neoplasms
+hsa-mir-31	Esophageal Neoplasms
+hsa-mir-32	Esophageal Neoplasms
+hsa-mir-324	Esophageal Neoplasms
+hsa-mir-326	Esophageal Neoplasms
+hsa-mir-328	Esophageal Neoplasms
+hsa-mir-329	Esophageal Neoplasms
+hsa-mir-330	Esophageal Neoplasms
+hsa-mir-331	Esophageal Neoplasms
+hsa-mir-335	Esophageal Neoplasms
+hsa-mir-338	Esophageal Neoplasms
+hsa-mir-339	Esophageal Neoplasms
+hsa-mir-345	Esophageal Neoplasms
+hsa-mir-346	Esophageal Neoplasms
+hsa-mir-34a	Esophageal Neoplasms
+hsa-mir-34b	Esophageal Neoplasms
+hsa-mir-34c	Esophageal Neoplasms
+hsa-mir-361	Esophageal Neoplasms
+hsa-mir-362	Esophageal Neoplasms
+hsa-mir-367	Esophageal Neoplasms
+hsa-mir-370	Esophageal Neoplasms
+hsa-mir-372	Esophageal Neoplasms
+hsa-mir-373	Esophageal Neoplasms
+hsa-mir-374b	Esophageal Neoplasms
+hsa-mir-375	Esophageal Neoplasms
+hsa-mir-376a	Esophageal Neoplasms
+hsa-mir-376b	Esophageal Neoplasms
+hsa-mir-377	Esophageal Neoplasms
+hsa-mir-379	Esophageal Neoplasms
+hsa-mir-381	Esophageal Neoplasms
+hsa-mir-382	Esophageal Neoplasms
+hsa-mir-383	Esophageal Neoplasms
+hsa-mir-384	Esophageal Neoplasms
+hsa-mir-409	Esophageal Neoplasms
+hsa-mir-410	Esophageal Neoplasms
+hsa-mir-411	Esophageal Neoplasms
+hsa-mir-421	Esophageal Neoplasms
+hsa-mir-422a	Esophageal Neoplasms
+hsa-mir-423	Esophageal Neoplasms
+hsa-mir-424	Esophageal Neoplasms
+hsa-mir-425	Esophageal Neoplasms
+hsa-mir-429	Esophageal Neoplasms
+hsa-mir-431	Esophageal Neoplasms
+hsa-mir-432	Esophageal Neoplasms
+hsa-mir-433	Esophageal Neoplasms
+hsa-mir-448	Esophageal Neoplasms
+hsa-mir-451	Esophageal Neoplasms
+hsa-mir-452	Esophageal Neoplasms
+hsa-mir-455	Esophageal Neoplasms
+hsa-mir-483	Esophageal Neoplasms
+hsa-mir-484	Esophageal Neoplasms
+hsa-mir-485	Esophageal Neoplasms
+hsa-mir-487a	Esophageal Neoplasms
+hsa-mir-489	Esophageal Neoplasms
+hsa-mir-490	Esophageal Neoplasms
+hsa-mir-491	Esophageal Neoplasms
+hsa-mir-493	Esophageal Neoplasms
+hsa-mir-494	Esophageal Neoplasms
+hsa-mir-495	Esophageal Neoplasms
+hsa-mir-497	Esophageal Neoplasms
+hsa-mir-498	Esophageal Neoplasms
+hsa-mir-501	Esophageal Neoplasms
+hsa-mir-502	Esophageal Neoplasms
+hsa-mir-503	Esophageal Neoplasms
+hsa-mir-505	Esophageal Neoplasms
+hsa-mir-506	Esophageal Neoplasms
+hsa-mir-507	Esophageal Neoplasms
+hsa-mir-508	Esophageal Neoplasms
+hsa-mir-509	Esophageal Neoplasms
+hsa-mir-510	Esophageal Neoplasms
+hsa-mir-511	Esophageal Neoplasms
+hsa-mir-516a	Esophageal Neoplasms
+hsa-mir-518a	Esophageal Neoplasms
+hsa-mir-518b	Esophageal Neoplasms
+hsa-mir-518c	Esophageal Neoplasms
+hsa-mir-518e	Esophageal Neoplasms
+hsa-mir-518f	Esophageal Neoplasms
+hsa-mir-519c	Esophageal Neoplasms
+hsa-mir-519d	Esophageal Neoplasms
+hsa-mir-519e	Esophageal Neoplasms
+hsa-mir-520a	Esophageal Neoplasms
+hsa-mir-520b	Esophageal Neoplasms
+hsa-mir-520c	Esophageal Neoplasms
+hsa-mir-520d	Esophageal Neoplasms
+hsa-mir-520e	Esophageal Neoplasms
+hsa-mir-520f	Esophageal Neoplasms
+hsa-mir-520g	Esophageal Neoplasms
+hsa-mir-521	Esophageal Neoplasms
+hsa-mir-522	Esophageal Neoplasms
+hsa-mir-523	Esophageal Neoplasms
+hsa-mir-524	Esophageal Neoplasms
+hsa-mir-525	Esophageal Neoplasms
+hsa-mir-526a	Esophageal Neoplasms
+hsa-mir-527	Esophageal Neoplasms
+hsa-mir-532	Esophageal Neoplasms
+hsa-mir-542	Esophageal Neoplasms
+hsa-mir-548a	Esophageal Neoplasms
+hsa-mir-548c	Esophageal Neoplasms
+hsa-mir-548d	Esophageal Neoplasms
+hsa-mir-557	Esophageal Neoplasms
+hsa-mir-566	Esophageal Neoplasms
+hsa-mir-570	Esophageal Neoplasms
+hsa-mir-574	Esophageal Neoplasms
+hsa-mir-583	Esophageal Neoplasms
+hsa-mir-584	Esophageal Neoplasms
+hsa-mir-590	Esophageal Neoplasms
+hsa-mir-591	Esophageal Neoplasms
+hsa-mir-593	Esophageal Neoplasms
+hsa-mir-596	Esophageal Neoplasms
+hsa-mir-602	Esophageal Neoplasms
+hsa-mir-603	Esophageal Neoplasms
+hsa-mir-605	Esophageal Neoplasms
+hsa-mir-610	Esophageal Neoplasms
+hsa-mir-612	Esophageal Neoplasms
+hsa-mir-614	Esophageal Neoplasms
+hsa-mir-615	Esophageal Neoplasms
+hsa-mir-616	Esophageal Neoplasms
+hsa-mir-617	Esophageal Neoplasms
+hsa-mir-622	Esophageal Neoplasms
+hsa-mir-625	Esophageal Neoplasms
+hsa-mir-627	Esophageal Neoplasms
+hsa-mir-628	Esophageal Neoplasms
+hsa-mir-630	Esophageal Neoplasms
+hsa-mir-635	Esophageal Neoplasms
+hsa-mir-648	Esophageal Neoplasms
+hsa-mir-652	Esophageal Neoplasms
+hsa-mir-660	Esophageal Neoplasms
+hsa-mir-663	Esophageal Neoplasms
+hsa-mir-668	Esophageal Neoplasms
+hsa-mir-671	Esophageal Neoplasms
+hsa-mir-7	Esophageal Neoplasms
+hsa-mir-758	Esophageal Neoplasms
+hsa-mir-765	Esophageal Neoplasms
+hsa-mir-769	Esophageal Neoplasms
+hsa-mir-9	Esophageal Neoplasms
+hsa-mir-92	Esophageal Neoplasms
+hsa-mir-92b	Esophageal Neoplasms
+hsa-mir-93	Esophageal Neoplasms
+hsa-mir-95	Esophageal Neoplasms
+hsa-mir-96	Esophageal Neoplasms
+hsa-mir-98	Esophageal Neoplasms
+hsa-mir-99a	Esophageal Neoplasms
+hsa-mir-99b	Esophageal Neoplasms
+hsa-mir-492	Esophageal Neoplasms
+hsa-mir-571	Esophageal Neoplasms
+hsa-mir-650	Esophageal Neoplasms
+hsa-mir-661	Esophageal Neoplasms
+hsa-let-7d	Glioblastoma
+hsa-let-7e	Glioblastoma
+hsa-let-7g	Glioblastoma
+hsa-mir-105	Glioblastoma
+hsa-mir-10a	Glioblastoma
+hsa-mir-10b	Glioblastoma
+hsa-mir-129	Glioblastoma
+hsa-mir-132	Glioblastoma
+hsa-mir-135b	Glioblastoma
+hsa-mir-136	Glioblastoma
+hsa-mir-137	Glioblastoma
+hsa-mir-138	Glioblastoma
+hsa-mir-139	Glioblastoma
+hsa-mir-140	Glioblastoma
+hsa-mir-141	Glioblastoma
+hsa-mir-142	Glioblastoma
+hsa-mir-143	Glioblastoma
+hsa-mir-145	Glioblastoma
+hsa-mir-146b	Glioblastoma
+hsa-mir-148a	Glioblastoma
+hsa-mir-148b	Glioblastoma
+hsa-mir-149	Glioblastoma
+hsa-mir-150	Glioblastoma
+hsa-mir-151	Glioblastoma
+hsa-mir-153	Glioblastoma
+hsa-mir-154	Glioblastoma
+hsa-mir-155	Glioblastoma
+hsa-mir-15a	Glioblastoma
+hsa-mir-16	Glioblastoma
+hsa-mir-17	Glioblastoma
+hsa-mir-181a	Glioblastoma
+hsa-mir-181b	Glioblastoma
+hsa-mir-181c	Glioblastoma
+hsa-mir-182	Glioblastoma
+hsa-mir-183	Glioblastoma
+hsa-mir-185	Glioblastoma
+hsa-mir-186	Glioblastoma
+hsa-mir-187	Glioblastoma
+hsa-mir-188	Glioblastoma
+hsa-mir-18a	Glioblastoma
+hsa-mir-18b	Glioblastoma
+hsa-mir-193a	Glioblastoma
+hsa-mir-194	Glioblastoma
+hsa-mir-197	Glioblastoma
+hsa-mir-199a	Glioblastoma
+hsa-mir-199b	Glioblastoma
+hsa-mir-19a	Glioblastoma
+hsa-mir-19b	Glioblastoma
+hsa-mir-200a	Glioblastoma
+hsa-mir-200b	Glioblastoma
+hsa-mir-202	Glioblastoma
+hsa-mir-203	Glioblastoma
+hsa-mir-205	Glioblastoma
+hsa-mir-206	Glioblastoma
+hsa-mir-21	Glioblastoma
+hsa-mir-210	Glioblastoma
+hsa-mir-211	Glioblastoma
+hsa-mir-212	Glioblastoma
+hsa-mir-214	Glioblastoma
+hsa-mir-215	Glioblastoma
+hsa-mir-217	Glioblastoma
+hsa-mir-218	Glioblastoma
+hsa-mir-221	Glioblastoma
+hsa-mir-222	Glioblastoma
+hsa-mir-224	Glioblastoma
+hsa-mir-23a	Glioblastoma
+hsa-mir-24	Glioblastoma
+hsa-mir-25	Glioblastoma
+hsa-mir-26b	Glioblastoma
+hsa-mir-28	Glioblastoma
+hsa-mir-296	Glioblastoma
+hsa-mir-297	Glioblastoma
+hsa-mir-298	Glioblastoma
+hsa-mir-299	Glioblastoma
+hsa-mir-29b	Glioblastoma
+hsa-mir-300	Glioblastoma
+hsa-mir-302b	Glioblastoma
+hsa-mir-30a	Glioblastoma
+hsa-mir-30c	Glioblastoma
+hsa-mir-30d	Glioblastoma
+hsa-mir-30e	Glioblastoma
+hsa-mir-31	Glioblastoma
+hsa-mir-326	Glioblastoma
+hsa-mir-328	Glioblastoma
+hsa-mir-329	Glioblastoma
+hsa-mir-331	Glioblastoma
+hsa-mir-338	Glioblastoma
+hsa-mir-339	Glioblastoma
+hsa-mir-340	Glioblastoma
+hsa-mir-342	Glioblastoma
+hsa-mir-346	Glioblastoma
+hsa-mir-34a	Glioblastoma
+hsa-mir-34b	Glioblastoma
+hsa-mir-34c	Glioblastoma
+hsa-mir-362	Glioblastoma
+hsa-mir-369	Glioblastoma
+hsa-mir-370	Glioblastoma
+hsa-mir-371	Glioblastoma
+hsa-mir-373	Glioblastoma
+hsa-mir-375	Glioblastoma
+hsa-mir-376b	Glioblastoma
+hsa-mir-377	Glioblastoma
+hsa-mir-379	Glioblastoma
+hsa-mir-381	Glioblastoma
+hsa-mir-382	Glioblastoma
+hsa-mir-383	Glioblastoma
+hsa-mir-384	Glioblastoma
+hsa-mir-409	Glioblastoma
+hsa-mir-410	Glioblastoma
+hsa-mir-411	Glioblastoma
+hsa-mir-421	Glioblastoma
+hsa-mir-424	Glioblastoma
+hsa-mir-425	Glioblastoma
+hsa-mir-429	Glioblastoma
+hsa-mir-431	Glioblastoma
+hsa-mir-432	Glioblastoma
+hsa-mir-433	Glioblastoma
+hsa-mir-448	Glioblastoma
+hsa-mir-452	Glioblastoma
+hsa-mir-495	Glioblastoma
+hsa-mir-503	Glioblastoma
+hsa-mir-505	Glioblastoma
+hsa-mir-515	Glioblastoma
+hsa-mir-517a	Glioblastoma
+hsa-mir-518a	Glioblastoma
+hsa-mir-518b	Glioblastoma
+hsa-mir-519d	Glioblastoma
+hsa-mir-520c	Glioblastoma
+hsa-mir-522	Glioblastoma
+hsa-mir-523	Glioblastoma
+hsa-mir-527	Glioblastoma
+hsa-mir-7	Glioblastoma
+hsa-mir-9	Glioblastoma
+hsa-mir-95	Glioblastoma
+hsa-mir-96	Glioblastoma
+hsa-mir-98	Glioblastoma
+hsa-mir-1	Head and Neck Neoplasms
+hsa-mir-10b	Head and Neck Neoplasms
+hsa-mir-125a	Head and Neck Neoplasms
+hsa-mir-126	Head and Neck Neoplasms
+hsa-mir-133a	Head and Neck Neoplasms
+hsa-mir-133b	Head and Neck Neoplasms
+hsa-mir-136	Head and Neck Neoplasms
+hsa-mir-139	Head and Neck Neoplasms
+hsa-mir-143	Head and Neck Neoplasms
+hsa-mir-145	Head and Neck Neoplasms
+hsa-mir-146a	Head and Neck Neoplasms
+hsa-mir-146b	Head and Neck Neoplasms
+hsa-mir-150	Head and Neck Neoplasms
+hsa-mir-181d	Head and Neck Neoplasms
+hsa-mir-18a	Head and Neck Neoplasms
+hsa-mir-193b	Head and Neck Neoplasms
+hsa-mir-195	Head and Neck Neoplasms
+hsa-mir-196a	Head and Neck Neoplasms
+hsa-mir-196b	Head and Neck Neoplasms
+hsa-mir-199a	Head and Neck Neoplasms
+hsa-mir-199b	Head and Neck Neoplasms
+hsa-mir-203	Head and Neck Neoplasms
+hsa-mir-206	Head and Neck Neoplasms
+hsa-mir-21	Head and Neck Neoplasms
+hsa-mir-214	Head and Neck Neoplasms
+hsa-mir-221	Head and Neck Neoplasms
+hsa-mir-223	Head and Neck Neoplasms
+hsa-mir-29c	Head and Neck Neoplasms
+hsa-mir-31	Head and Neck Neoplasms
+hsa-mir-34a	Head and Neck Neoplasms
+hsa-mir-375	Head and Neck Neoplasms
+hsa-mir-451	Head and Neck Neoplasms
+hsa-mir-486	Head and Neck Neoplasms
+hsa-mir-491	Head and Neck Neoplasms
+hsa-mir-99a	Head and Neck Neoplasms
+hsa-let-7a	Carcinoma Hepatocellular
+hsa-let-7c	Carcinoma Hepatocellular
+hsa-let-7e	Carcinoma Hepatocellular
+hsa-let-7i	Carcinoma Hepatocellular
+hsa-mir-100	Carcinoma Hepatocellular
+hsa-mir-101	Carcinoma Hepatocellular
+hsa-mir-106a	Carcinoma Hepatocellular
+hsa-mir-106b	Carcinoma Hepatocellular
+hsa-mir-107	Carcinoma Hepatocellular
+hsa-mir-10a	Carcinoma Hepatocellular
+hsa-mir-122	Carcinoma Hepatocellular
+hsa-mir-125a	Carcinoma Hepatocellular
+hsa-mir-126	Carcinoma Hepatocellular
+hsa-mir-130a	Carcinoma Hepatocellular
+hsa-mir-130b	Carcinoma Hepatocellular
+hsa-mir-134	Carcinoma Hepatocellular
+hsa-mir-143	Carcinoma Hepatocellular
+hsa-mir-145	Carcinoma Hepatocellular
+hsa-mir-146a	Carcinoma Hepatocellular
+hsa-mir-148a	Carcinoma Hepatocellular
+hsa-mir-148b	Carcinoma Hepatocellular
+hsa-mir-150	Carcinoma Hepatocellular
+hsa-mir-155	Carcinoma Hepatocellular
+hsa-mir-15a	Carcinoma Hepatocellular
+hsa-mir-15b	Carcinoma Hepatocellular
+hsa-mir-16	Carcinoma Hepatocellular
+hsa-mir-181a	Carcinoma Hepatocellular
+hsa-mir-181b	Carcinoma Hepatocellular
+hsa-mir-181d	Carcinoma Hepatocellular
+hsa-mir-185	Carcinoma Hepatocellular
+hsa-mir-188	Carcinoma Hepatocellular
+hsa-mir-18a	Carcinoma Hepatocellular
+hsa-mir-191	Carcinoma Hepatocellular
+hsa-mir-193a	Carcinoma Hepatocellular
+hsa-mir-194	Carcinoma Hepatocellular
+hsa-mir-195	Carcinoma Hepatocellular
+hsa-mir-199a	Carcinoma Hepatocellular
+hsa-mir-19a	Carcinoma Hepatocellular
+hsa-mir-200a	Carcinoma Hepatocellular
+hsa-mir-202	Carcinoma Hepatocellular
+hsa-mir-20a	Carcinoma Hepatocellular
+hsa-mir-20b	Carcinoma Hepatocellular
+hsa-mir-210	Carcinoma Hepatocellular
+hsa-mir-214	Carcinoma Hepatocellular
+hsa-mir-22	Carcinoma Hepatocellular
+hsa-mir-221	Carcinoma Hepatocellular
+hsa-mir-222	Carcinoma Hepatocellular
+hsa-mir-224	Carcinoma Hepatocellular
+hsa-mir-23a	Carcinoma Hepatocellular
+hsa-mir-25	Carcinoma Hepatocellular
+hsa-mir-26a	Carcinoma Hepatocellular
+hsa-mir-26b	Carcinoma Hepatocellular
+hsa-mir-27b	Carcinoma Hepatocellular
+hsa-mir-28	Carcinoma Hepatocellular
+hsa-mir-296	Carcinoma Hepatocellular
+hsa-mir-29a	Carcinoma Hepatocellular
+hsa-mir-29b	Carcinoma Hepatocellular
+hsa-mir-29c	Carcinoma Hepatocellular
+hsa-mir-30d	Carcinoma Hepatocellular
+hsa-mir-331	Carcinoma Hepatocellular
+hsa-mir-342	Carcinoma Hepatocellular
+hsa-mir-34a	Carcinoma Hepatocellular
+hsa-mir-422a	Carcinoma Hepatocellular
+hsa-mir-423	Carcinoma Hepatocellular
+hsa-mir-424	Carcinoma Hepatocellular
+hsa-mir-451	Carcinoma Hepatocellular
+hsa-mir-497	Carcinoma Hepatocellular
+hsa-mir-520b	Carcinoma Hepatocellular
+hsa-mir-520d	Carcinoma Hepatocellular
+hsa-mir-520f	Carcinoma Hepatocellular
+hsa-mir-523	Carcinoma Hepatocellular
+hsa-mir-92	Carcinoma Hepatocellular
+hsa-mir-93	Carcinoma Hepatocellular
+hsa-mir-98	Carcinoma Hepatocellular
+hsa-mir-99a	Carcinoma Hepatocellular
+hsa-mir-99b	Carcinoma Hepatocellular
+hsa-let-7a	Lung Neoplasms
+hsa-let-7c	Lung Neoplasms
+hsa-let-7d	Lung Neoplasms
+hsa-let-7g	Lung Neoplasms
+hsa-let-7i	Lung Neoplasms
+hsa-mir-1	Lung Neoplasms
+hsa-mir-100	Lung Neoplasms
+hsa-mir-101	Lung Neoplasms
+hsa-mir-106a	Lung Neoplasms
+hsa-mir-106b	Lung Neoplasms
+hsa-mir-107	Lung Neoplasms
+hsa-mir-10a	Lung Neoplasms
+hsa-mir-10b	Lung Neoplasms
+hsa-mir-125a	Lung Neoplasms
+hsa-mir-126	Lung Neoplasms
+hsa-mir-127	Lung Neoplasms
+hsa-mir-128	Lung Neoplasms
+hsa-mir-130a	Lung Neoplasms
+hsa-mir-130b	Lung Neoplasms
+hsa-mir-132	Lung Neoplasms
+hsa-mir-133a	Lung Neoplasms
+hsa-mir-133b	Lung Neoplasms
+hsa-mir-135a	Lung Neoplasms
+hsa-mir-135b	Lung Neoplasms
+hsa-mir-136	Lung Neoplasms
+hsa-mir-137	Lung Neoplasms
+hsa-mir-139	Lung Neoplasms
+hsa-mir-140	Lung Neoplasms
+hsa-mir-141	Lung Neoplasms
+hsa-mir-143	Lung Neoplasms
+hsa-mir-144	Lung Neoplasms
+hsa-mir-145	Lung Neoplasms
+hsa-mir-146a	Lung Neoplasms
+hsa-mir-148a	Lung Neoplasms
+hsa-mir-148b	Lung Neoplasms
+hsa-mir-149	Lung Neoplasms
+hsa-mir-150	Lung Neoplasms
+hsa-mir-152	Lung Neoplasms
+hsa-mir-153	Lung Neoplasms
+hsa-mir-154	Lung Neoplasms
+hsa-mir-155	Lung Neoplasms
+hsa-mir-15a	Lung Neoplasms
+hsa-mir-15b	Lung Neoplasms
+hsa-mir-16	Lung Neoplasms
+hsa-mir-181a	Lung Neoplasms
+hsa-mir-181b	Lung Neoplasms
+hsa-mir-181c	Lung Neoplasms
+hsa-mir-181d	Lung Neoplasms
+hsa-mir-182	Lung Neoplasms
+hsa-mir-183	Lung Neoplasms
+hsa-mir-185	Lung Neoplasms
+hsa-mir-186	Lung Neoplasms
+hsa-mir-187	Lung Neoplasms
+hsa-mir-189	Lung Neoplasms
+hsa-mir-18a	Lung Neoplasms
+hsa-mir-192	Lung Neoplasms
+hsa-mir-193b	Lung Neoplasms
+hsa-mir-195	Lung Neoplasms
+hsa-mir-196a	Lung Neoplasms
+hsa-mir-196b	Lung Neoplasms
+hsa-mir-197	Lung Neoplasms
+hsa-mir-198	Lung Neoplasms
+hsa-mir-199a	Lung Neoplasms
+hsa-mir-199b	Lung Neoplasms
+hsa-mir-19a	Lung Neoplasms
+hsa-mir-19b	Lung Neoplasms
+hsa-mir-200a	Lung Neoplasms
+hsa-mir-200b	Lung Neoplasms
+hsa-mir-200c	Lung Neoplasms
+hsa-mir-202	Lung Neoplasms
+hsa-mir-203	Lung Neoplasms
+hsa-mir-205	Lung Neoplasms
+hsa-mir-20a	Lung Neoplasms
+hsa-mir-20b	Lung Neoplasms
+hsa-mir-21	Lung Neoplasms
+hsa-mir-210	Lung Neoplasms
+hsa-mir-214	Lung Neoplasms
+hsa-mir-215	Lung Neoplasms
+hsa-mir-218	Lung Neoplasms
+hsa-mir-221	Lung Neoplasms
+hsa-mir-222	Lung Neoplasms
+hsa-mir-224	Lung Neoplasms
+hsa-mir-23a	Lung Neoplasms
+hsa-mir-23b	Lung Neoplasms
+hsa-mir-25	Lung Neoplasms
+hsa-mir-26a	Lung Neoplasms
+hsa-mir-26b	Lung Neoplasms
+hsa-mir-27a	Lung Neoplasms
+hsa-mir-28	Lung Neoplasms
+hsa-mir-296	Lung Neoplasms
+hsa-mir-29a	Lung Neoplasms
+hsa-mir-29b	Lung Neoplasms
+hsa-mir-29c	Lung Neoplasms
+hsa-mir-302b	Lung Neoplasms
+hsa-mir-302c	Lung Neoplasms
+hsa-mir-302d	Lung Neoplasms
+hsa-mir-30b	Lung Neoplasms
+hsa-mir-30d	Lung Neoplasms
+hsa-mir-31	Lung Neoplasms
+hsa-mir-325	Lung Neoplasms
+hsa-mir-328	Lung Neoplasms
+hsa-mir-330	Lung Neoplasms
+hsa-mir-338	Lung Neoplasms
+hsa-mir-339	Lung Neoplasms
+hsa-mir-342	Lung Neoplasms
+hsa-mir-345	Lung Neoplasms
+hsa-mir-346	Lung Neoplasms
+hsa-mir-34a	Lung Neoplasms
+hsa-mir-34b	Lung Neoplasms
+hsa-mir-34c	Lung Neoplasms
+hsa-mir-361	Lung Neoplasms
+hsa-mir-362	Lung Neoplasms
+hsa-mir-363	Lung Neoplasms
+hsa-mir-373	Lung Neoplasms
+hsa-mir-375	Lung Neoplasms
+hsa-mir-381	Lung Neoplasms
+hsa-mir-383	Lung Neoplasms
+hsa-mir-422a	Lung Neoplasms
+hsa-mir-425	Lung Neoplasms
+hsa-mir-429	Lung Neoplasms
+hsa-mir-432	Lung Neoplasms
+hsa-mir-451	Lung Neoplasms
+hsa-mir-483	Lung Neoplasms
+hsa-mir-484	Lung Neoplasms
+hsa-mir-486	Lung Neoplasms
+hsa-mir-488	Lung Neoplasms
+hsa-mir-492	Lung Neoplasms
+hsa-mir-494	Lung Neoplasms
+hsa-mir-498	Lung Neoplasms
+hsa-mir-501	Lung Neoplasms
+hsa-mir-503	Lung Neoplasms
+hsa-mir-505	Lung Neoplasms
+hsa-mir-507	Lung Neoplasms
+hsa-mir-508	Lung Neoplasms
+hsa-mir-518a	Lung Neoplasms
+hsa-mir-518c	Lung Neoplasms
+hsa-mir-519a	Lung Neoplasms
+hsa-mir-519b	Lung Neoplasms
+hsa-mir-519c	Lung Neoplasms
+hsa-mir-519e	Lung Neoplasms
+hsa-mir-520d	Lung Neoplasms
+hsa-mir-520f	Lung Neoplasms
+hsa-mir-524	Lung Neoplasms
+hsa-mir-526b	Lung Neoplasms
+hsa-mir-527	Lung Neoplasms
+hsa-mir-539	Lung Neoplasms
+hsa-mir-92	Lung Neoplasms
+hsa-mir-93	Lung Neoplasms
+hsa-mir-96	Lung Neoplasms
+hsa-mir-98	Lung Neoplasms
+hsa-mir-99a	Lung Neoplasms
+hsa-let-7a	Lymphoma
+hsa-let-7b	Lymphoma
+hsa-let-7c	Lymphoma
+hsa-let-7d	Lymphoma
+hsa-let-7e	Lymphoma
+hsa-let-7f	Lymphoma
+hsa-let-7g	Lymphoma
+hsa-let-7i	Lymphoma
+hsa-mir-1	Lymphoma
+hsa-mir-100	Lymphoma
+hsa-mir-101	Lymphoma
+hsa-mir-105	Lymphoma
+hsa-mir-106a	Lymphoma
+hsa-mir-106b	Lymphoma
+hsa-mir-107	Lymphoma
+hsa-mir-10a	Lymphoma
+hsa-mir-10b	Lymphoma
+hsa-mir-122	Lymphoma
+hsa-mir-124	Lymphoma
+hsa-mir-125a	Lymphoma
+hsa-mir-126	Lymphoma
+hsa-mir-127	Lymphoma
+hsa-mir-128	Lymphoma
+hsa-mir-129	Lymphoma
+hsa-mir-130a	Lymphoma
+hsa-mir-130b	Lymphoma
+hsa-mir-132	Lymphoma
+hsa-mir-133a	Lymphoma
+hsa-mir-133b	Lymphoma
+hsa-mir-134	Lymphoma
+hsa-mir-135b	Lymphoma
+hsa-mir-136	Lymphoma
+hsa-mir-137	Lymphoma
+hsa-mir-138	Lymphoma
+hsa-mir-139	Lymphoma
+hsa-mir-140	Lymphoma
+hsa-mir-141	Lymphoma
+hsa-mir-143	Lymphoma
+hsa-mir-145	Lymphoma
+hsa-mir-146a	Lymphoma
+hsa-mir-148a	Lymphoma
+hsa-mir-148b	Lymphoma
+hsa-mir-149	Lymphoma
+hsa-mir-150	Lymphoma
+hsa-mir-152	Lymphoma
+hsa-mir-154	Lymphoma
+hsa-mir-155	Lymphoma
+hsa-mir-15a	Lymphoma
+hsa-mir-15b	Lymphoma
+hsa-mir-16	Lymphoma
+hsa-mir-17	Lymphoma
+hsa-mir-181a	Lymphoma
+hsa-mir-181b	Lymphoma
+hsa-mir-181c	Lymphoma
+hsa-mir-181d	Lymphoma
+hsa-mir-182	Lymphoma
+hsa-mir-183	Lymphoma
+hsa-mir-184	Lymphoma
+hsa-mir-185	Lymphoma
+hsa-mir-186	Lymphoma
+hsa-mir-187	Lymphoma
+hsa-mir-188	Lymphoma
+hsa-mir-189	Lymphoma
+hsa-mir-18a	Lymphoma
+hsa-mir-18b	Lymphoma
+hsa-mir-191	Lymphoma
+hsa-mir-192	Lymphoma
+hsa-mir-194	Lymphoma
+hsa-mir-195	Lymphoma
+hsa-mir-196a	Lymphoma
+hsa-mir-197	Lymphoma
+hsa-mir-198	Lymphoma
+hsa-mir-199a	Lymphoma
+hsa-mir-199b	Lymphoma
+hsa-mir-19a	Lymphoma
+hsa-mir-19b	Lymphoma
+hsa-mir-200a	Lymphoma
+hsa-mir-200b	Lymphoma
+hsa-mir-200c	Lymphoma
+hsa-mir-203	Lymphoma
+hsa-mir-204	Lymphoma
+hsa-mir-205	Lymphoma
+hsa-mir-206	Lymphoma
+hsa-mir-20a	Lymphoma
+hsa-mir-20b	Lymphoma
+hsa-mir-21	Lymphoma
+hsa-mir-210	Lymphoma
+hsa-mir-211	Lymphoma
+hsa-mir-212	Lymphoma
+hsa-mir-214	Lymphoma
+hsa-mir-215	Lymphoma
+hsa-mir-217	Lymphoma
+hsa-mir-218	Lymphoma
+hsa-mir-219	Lymphoma
+hsa-mir-22	Lymphoma
+hsa-mir-221	Lymphoma
+hsa-mir-222	Lymphoma
+hsa-mir-223	Lymphoma
+hsa-mir-224	Lymphoma
+hsa-mir-23a	Lymphoma
+hsa-mir-23b	Lymphoma
+hsa-mir-24	Lymphoma
+hsa-mir-25	Lymphoma
+hsa-mir-26a	Lymphoma
+hsa-mir-26b	Lymphoma
+hsa-mir-27a	Lymphoma
+hsa-mir-27b	Lymphoma
+hsa-mir-28	Lymphoma
+hsa-mir-296	Lymphoma
+hsa-mir-299	Lymphoma
+hsa-mir-29a	Lymphoma
+hsa-mir-29b	Lymphoma
+hsa-mir-29c	Lymphoma
+hsa-mir-302a	Lymphoma
+hsa-mir-302c	Lymphoma
+hsa-mir-30a	Lymphoma
+hsa-mir-30b	Lymphoma
+hsa-mir-30c	Lymphoma
+hsa-mir-30d	Lymphoma
+hsa-mir-30e	Lymphoma
+hsa-mir-31	Lymphoma
+hsa-mir-32	Lymphoma
+hsa-mir-326	Lymphoma
+hsa-mir-328	Lymphoma
+hsa-mir-330	Lymphoma
+hsa-mir-335	Lymphoma
+hsa-mir-337	Lymphoma
+hsa-mir-338	Lymphoma
+hsa-mir-339	Lymphoma
+hsa-mir-33a	Lymphoma
+hsa-mir-33b	Lymphoma
+hsa-mir-340	Lymphoma
+hsa-mir-342	Lymphoma
+hsa-mir-34a	Lymphoma
+hsa-mir-34b	Lymphoma
+hsa-mir-363	Lymphoma
+hsa-mir-369	Lymphoma
+hsa-mir-373	Lymphoma
+hsa-mir-374b	Lymphoma
+hsa-mir-422a	Lymphoma
+hsa-mir-423	Lymphoma
+hsa-mir-424	Lymphoma
+hsa-mir-425	Lymphoma
+hsa-mir-451	Lymphoma
+hsa-mir-454	Lymphoma
+hsa-mir-484	Lymphoma
+hsa-mir-489	Lymphoma
+hsa-mir-494	Lymphoma
+hsa-mir-497	Lymphoma
+hsa-mir-503	Lymphoma
+hsa-mir-584	Lymphoma
+hsa-mir-624	Lymphoma
+hsa-mir-625	Lymphoma
+hsa-mir-629	Lymphoma
+hsa-mir-638	Lymphoma
+hsa-mir-7	Lymphoma
+hsa-mir-744	Lymphoma
+hsa-mir-765	Lymphoma
+hsa-mir-9	Lymphoma
+hsa-mir-92	Lymphoma
+hsa-mir-92a	Lymphoma
+hsa-mir-92b	Lymphoma
+hsa-mir-93	Lymphoma
+hsa-mir-933	Lymphoma
+hsa-mir-95	Lymphoma
+hsa-mir-96	Lymphoma
+hsa-mir-98	Lymphoma
+hsa-mir-99a	Lymphoma
+hsa-mir-99b	Lymphoma
+hsa-let-7a	Medulloblastoma
+hsa-let-7b	Medulloblastoma
+hsa-let-7d	Medulloblastoma
+hsa-let-7e	Medulloblastoma
+hsa-let-7f	Medulloblastoma
+hsa-let-7g	Medulloblastoma
+hsa-let-7i	Medulloblastoma
+hsa-mir-100	Medulloblastoma
+hsa-mir-106a	Medulloblastoma
+hsa-mir-106b	Medulloblastoma
+hsa-mir-107	Medulloblastoma
+hsa-mir-10b	Medulloblastoma
+hsa-mir-124a	Medulloblastoma
+hsa-mir-125a	Medulloblastoma
+hsa-mir-125b	Medulloblastoma
+hsa-mir-127	Medulloblastoma
+hsa-mir-128	Medulloblastoma
+hsa-mir-129	Medulloblastoma
+hsa-mir-132	Medulloblastoma
+hsa-mir-133b	Medulloblastoma
+hsa-mir-134	Medulloblastoma
+hsa-mir-135a	Medulloblastoma
+hsa-mir-135b	Medulloblastoma
+hsa-mir-137	Medulloblastoma
+hsa-mir-138	Medulloblastoma
+hsa-mir-143	Medulloblastoma
+hsa-mir-145	Medulloblastoma
+hsa-mir-148a	Medulloblastoma
+hsa-mir-149	Medulloblastoma
+hsa-mir-150	Medulloblastoma
+hsa-mir-153	Medulloblastoma
+hsa-mir-154	Medulloblastoma
+hsa-mir-155	Medulloblastoma
+hsa-mir-17	Medulloblastoma
+hsa-mir-181b	Medulloblastoma
+hsa-mir-181c	Medulloblastoma
+hsa-mir-187	Medulloblastoma
+hsa-mir-18a	Medulloblastoma
+hsa-mir-191	Medulloblastoma
+hsa-mir-192	Medulloblastoma
+hsa-mir-194	Medulloblastoma
+hsa-mir-199b	Medulloblastoma
+hsa-mir-19a	Medulloblastoma
+hsa-mir-203	Medulloblastoma
+hsa-mir-20a	Medulloblastoma
+hsa-mir-21	Medulloblastoma
+hsa-mir-212	Medulloblastoma
+hsa-mir-219	Medulloblastoma
+hsa-mir-22	Medulloblastoma
+hsa-mir-221	Medulloblastoma
+hsa-mir-25	Medulloblastoma
+hsa-mir-26a	Medulloblastoma
+hsa-mir-26b	Medulloblastoma
+hsa-mir-29a	Medulloblastoma
+hsa-mir-29b	Medulloblastoma
+hsa-mir-29c	Medulloblastoma
+hsa-mir-30b	Medulloblastoma
+hsa-mir-30c	Medulloblastoma
+hsa-mir-31	Medulloblastoma
+hsa-mir-324	Medulloblastoma
+hsa-mir-326	Medulloblastoma
+hsa-mir-328	Medulloblastoma
+hsa-mir-330	Medulloblastoma
+hsa-mir-331	Medulloblastoma
+hsa-mir-345	Medulloblastoma
+hsa-mir-346	Medulloblastoma
+hsa-mir-361	Medulloblastoma
+hsa-mir-370	Medulloblastoma
+hsa-mir-372	Medulloblastoma
+hsa-mir-381	Medulloblastoma
+hsa-mir-382	Medulloblastoma
+hsa-mir-383	Medulloblastoma
+hsa-mir-425	Medulloblastoma
+hsa-mir-7	Medulloblastoma
+hsa-mir-9	Medulloblastoma
+hsa-mir-98	Medulloblastoma
+hsa-mir-200a	Meningioma
+hsa-mir-373	Meningioma
+hsa-mir-575	Meningioma
+hsa-let-7b	Meningioma
+hsa-let-7d	Meningioma
+hsa-let-7g	Meningioma
+hsa-let-7i	Meningioma
+hsa-mir-100	Meningioma
+hsa-mir-106a	Meningioma
+hsa-mir-106b	Meningioma
+hsa-mir-125a	Meningioma
+hsa-mir-125b	Meningioma
+hsa-mir-181a	Meningioma
+hsa-mir-19b	Meningioma
+hsa-mir-23b	Meningioma
+hsa-mir-26a	Meningioma
+hsa-mir-29a	Meningioma
+hsa-mir-335	Meningioma
+hsa-mir-370	Meningioma
+hsa-mir-654	Meningioma
+hsa-mir-98	Meningioma
+hsa-mir-10a	Multiple Myeloma
+hsa-mir-125a	Multiple Myeloma
+hsa-mir-130a	Multiple Myeloma
+hsa-mir-133b	Multiple Myeloma
+hsa-mir-135b	Multiple Myeloma
+hsa-mir-151	Multiple Myeloma
+hsa-mir-155	Multiple Myeloma
+hsa-mir-15a	Multiple Myeloma
+hsa-mir-182	Multiple Myeloma
+hsa-mir-193a	Multiple Myeloma
+hsa-mir-196a	Multiple Myeloma
+hsa-mir-196b	Multiple Myeloma
+hsa-mir-203	Multiple Myeloma
+hsa-mir-214	Multiple Myeloma
+hsa-mir-218	Multiple Myeloma
+hsa-mir-224	Multiple Myeloma
+hsa-mir-362	Multiple Myeloma
+hsa-mir-375	Multiple Myeloma
+hsa-mir-379	Multiple Myeloma
+hsa-mir-451	Multiple Myeloma
+hsa-mir-486	Multiple Myeloma
+hsa-mir-501	Multiple Myeloma
+hsa-mir-629	Multiple Myeloma
+hsa-mir-650	Multiple Myeloma
+hsa-mir-95	Multiple Myeloma
+hsa-let-7a	Prostate Neoplasms
+hsa-let-7b	Prostate Neoplasms
+hsa-let-7c	Prostate Neoplasms
+hsa-let-7d	Prostate Neoplasms
+hsa-let-7e	Prostate Neoplasms
+hsa-let-7f	Prostate Neoplasms
+hsa-let-7g	Prostate Neoplasms
+hsa-let-7i	Prostate Neoplasms
+hsa-mir-1	Prostate Neoplasms
+hsa-mir-100	Prostate Neoplasms
+hsa-mir-101	Prostate Neoplasms
+hsa-mir-105	Prostate Neoplasms
+hsa-mir-106a	Prostate Neoplasms
+hsa-mir-106b	Prostate Neoplasms
+hsa-mir-10a	Prostate Neoplasms
+hsa-mir-10b	Prostate Neoplasms
+hsa-mir-124	Prostate Neoplasms
+hsa-mir-125a	Prostate Neoplasms
+hsa-mir-125b	Prostate Neoplasms
+hsa-mir-126	Prostate Neoplasms
+hsa-mir-127	Prostate Neoplasms
+hsa-mir-128	Prostate Neoplasms
+hsa-mir-129	Prostate Neoplasms
+hsa-mir-130a	Prostate Neoplasms
+hsa-mir-130b	Prostate Neoplasms
+hsa-mir-132	Prostate Neoplasms
+hsa-mir-133a	Prostate Neoplasms
+hsa-mir-133b	Prostate Neoplasms
+hsa-mir-135b	Prostate Neoplasms
+hsa-mir-136	Prostate Neoplasms
+hsa-mir-137	Prostate Neoplasms
+hsa-mir-138	Prostate Neoplasms
+hsa-mir-140	Prostate Neoplasms
+hsa-mir-143	Prostate Neoplasms
+hsa-mir-144	Prostate Neoplasms
+hsa-mir-145	Prostate Neoplasms
+hsa-mir-149	Prostate Neoplasms
+hsa-mir-150	Prostate Neoplasms
+hsa-mir-152	Prostate Neoplasms
+hsa-mir-153	Prostate Neoplasms
+hsa-mir-154	Prostate Neoplasms
+hsa-mir-155	Prostate Neoplasms
+hsa-mir-15a	Prostate Neoplasms
+hsa-mir-15b	Prostate Neoplasms
+hsa-mir-16	Prostate Neoplasms
+hsa-mir-181a	Prostate Neoplasms
+hsa-mir-181b	Prostate Neoplasms
+hsa-mir-182	Prostate Neoplasms
+hsa-mir-183	Prostate Neoplasms
+hsa-mir-184	Prostate Neoplasms
+hsa-mir-186	Prostate Neoplasms
+hsa-mir-187	Prostate Neoplasms
+hsa-mir-189	Prostate Neoplasms
+hsa-mir-192	Prostate Neoplasms
+hsa-mir-194	Prostate Neoplasms
+hsa-mir-195	Prostate Neoplasms
+hsa-mir-196a	Prostate Neoplasms
+hsa-mir-197	Prostate Neoplasms
+hsa-mir-198	Prostate Neoplasms
+hsa-mir-199a	Prostate Neoplasms
+hsa-mir-199b	Prostate Neoplasms
+hsa-mir-19a	Prostate Neoplasms
+hsa-mir-19b	Prostate Neoplasms
+hsa-mir-200a	Prostate Neoplasms
+hsa-mir-200c	Prostate Neoplasms
+hsa-mir-204	Prostate Neoplasms
+hsa-mir-205	Prostate Neoplasms
+hsa-mir-206	Prostate Neoplasms
+hsa-mir-21	Prostate Neoplasms
+hsa-mir-211	Prostate Neoplasms
+hsa-mir-214	Prostate Neoplasms
+hsa-mir-215	Prostate Neoplasms
+hsa-mir-218	Prostate Neoplasms
+hsa-mir-219	Prostate Neoplasms
+hsa-mir-22	Prostate Neoplasms
+hsa-mir-221	Prostate Neoplasms
+hsa-mir-222	Prostate Neoplasms
+hsa-mir-223	Prostate Neoplasms
+hsa-mir-224	Prostate Neoplasms
+hsa-mir-23a	Prostate Neoplasms
+hsa-mir-23b	Prostate Neoplasms
+hsa-mir-24	Prostate Neoplasms
+hsa-mir-25	Prostate Neoplasms
+hsa-mir-26a	Prostate Neoplasms
+hsa-mir-26b	Prostate Neoplasms
+hsa-mir-27a	Prostate Neoplasms
+hsa-mir-27b	Prostate Neoplasms
+hsa-mir-28	Prostate Neoplasms
+hsa-mir-296	Prostate Neoplasms
+hsa-mir-29a	Prostate Neoplasms
+hsa-mir-29b	Prostate Neoplasms
+hsa-mir-29c	Prostate Neoplasms
+hsa-mir-302a	Prostate Neoplasms
+hsa-mir-302b	Prostate Neoplasms
+hsa-mir-302c	Prostate Neoplasms
+hsa-mir-302d	Prostate Neoplasms
+hsa-mir-30b	Prostate Neoplasms
+hsa-mir-30c	Prostate Neoplasms
+hsa-mir-30d	Prostate Neoplasms
+hsa-mir-31	Prostate Neoplasms
+hsa-mir-32	Prostate Neoplasms
+hsa-mir-325	Prostate Neoplasms
+hsa-mir-337	Prostate Neoplasms
+hsa-mir-338	Prostate Neoplasms
+hsa-mir-34a	Prostate Neoplasms
+hsa-mir-34b	Prostate Neoplasms
+hsa-mir-34c	Prostate Neoplasms
+hsa-mir-367	Prostate Neoplasms
+hsa-mir-369	Prostate Neoplasms
+hsa-mir-371	Prostate Neoplasms
+hsa-mir-372	Prostate Neoplasms
+hsa-mir-375	Prostate Neoplasms
+hsa-mir-7	Prostate Neoplasms
+hsa-mir-9	Prostate Neoplasms
+hsa-mir-92	Prostate Neoplasms
+hsa-mir-96	Prostate Neoplasms
+hsa-mir-98	Prostate Neoplasms
+hsa-mir-99a	Prostate Neoplasms
+hsa-mir-99b	Prostate Neoplasms
+hsa-let-7a	Kidney Neoplasms
+hsa-let-7c	Kidney Neoplasms
+hsa-let-7d	Kidney Neoplasms
+hsa-let-7f	Kidney Neoplasms
+hsa-let-7g	Kidney Neoplasms
+hsa-let-7i	Kidney Neoplasms
+hsa-mir-1	Kidney Neoplasms
+hsa-mir-100	Kidney Neoplasms
+hsa-mir-101	Kidney Neoplasms
+hsa-mir-106a	Kidney Neoplasms
+hsa-mir-106b	Kidney Neoplasms
+hsa-mir-107	Kidney Neoplasms
+hsa-mir-10a	Kidney Neoplasms
+hsa-mir-10b	Kidney Neoplasms
+hsa-mir-122	Kidney Neoplasms
+hsa-mir-124	Kidney Neoplasms
+hsa-mir-125a	Kidney Neoplasms
+hsa-mir-126	Kidney Neoplasms
+hsa-mir-127	Kidney Neoplasms
+hsa-mir-128	Kidney Neoplasms
+hsa-mir-129	Kidney Neoplasms
+hsa-mir-130a	Kidney Neoplasms
+hsa-mir-130b	Kidney Neoplasms
+hsa-mir-132	Kidney Neoplasms
+hsa-mir-134	Kidney Neoplasms
+hsa-mir-135b	Kidney Neoplasms
+hsa-mir-136	Kidney Neoplasms
+hsa-mir-138	Kidney Neoplasms
+hsa-mir-139	Kidney Neoplasms
+hsa-mir-140	Kidney Neoplasms
+hsa-mir-141	Kidney Neoplasms
+hsa-mir-143	Kidney Neoplasms
+hsa-mir-144	Kidney Neoplasms
+hsa-mir-145	Kidney Neoplasms
+hsa-mir-146a	Kidney Neoplasms
+hsa-mir-146b	Kidney Neoplasms
+hsa-mir-148a	Kidney Neoplasms
+hsa-mir-149	Kidney Neoplasms
+hsa-mir-150	Kidney Neoplasms
+hsa-mir-152	Kidney Neoplasms
+hsa-mir-153	Kidney Neoplasms
+hsa-mir-155	Kidney Neoplasms
+hsa-mir-15a	Kidney Neoplasms
+hsa-mir-15b	Kidney Neoplasms
+hsa-mir-16	Kidney Neoplasms
+hsa-mir-181a	Kidney Neoplasms
+hsa-mir-181b	Kidney Neoplasms
+hsa-mir-181c	Kidney Neoplasms
+hsa-mir-181d	Kidney Neoplasms
+hsa-mir-182	Kidney Neoplasms
+hsa-mir-183	Kidney Neoplasms
+hsa-mir-184	Kidney Neoplasms
+hsa-mir-185	Kidney Neoplasms
+hsa-mir-186	Kidney Neoplasms
+hsa-mir-187	Kidney Neoplasms
+hsa-mir-188	Kidney Neoplasms
+hsa-mir-18a	Kidney Neoplasms
+hsa-mir-18b	Kidney Neoplasms
+hsa-mir-191	Kidney Neoplasms
+hsa-mir-192	Kidney Neoplasms
+hsa-mir-193a	Kidney Neoplasms
+hsa-mir-193b	Kidney Neoplasms
+hsa-mir-194	Kidney Neoplasms
+hsa-mir-195	Kidney Neoplasms
+hsa-mir-196a	Kidney Neoplasms
+hsa-mir-196b	Kidney Neoplasms
+hsa-mir-197	Kidney Neoplasms
+hsa-mir-198	Kidney Neoplasms
+hsa-mir-199a	Kidney Neoplasms
+hsa-mir-199b	Kidney Neoplasms
+hsa-mir-19a	Kidney Neoplasms
+hsa-mir-19b	Kidney Neoplasms
+hsa-mir-200a	Kidney Neoplasms
+hsa-mir-200b	Kidney Neoplasms
+hsa-mir-200c	Kidney Neoplasms
+hsa-mir-203	Kidney Neoplasms
+hsa-mir-204	Kidney Neoplasms
+hsa-mir-206	Kidney Neoplasms
+hsa-mir-20a	Kidney Neoplasms
+hsa-mir-20b	Kidney Neoplasms
+hsa-mir-21	Kidney Neoplasms
+hsa-mir-210	Kidney Neoplasms
+hsa-mir-211	Kidney Neoplasms
+hsa-mir-212	Kidney Neoplasms
+hsa-mir-214	Kidney Neoplasms
+hsa-mir-215	Kidney Neoplasms
+hsa-mir-218	Kidney Neoplasms
+hsa-mir-22	Kidney Neoplasms
+hsa-mir-222	Kidney Neoplasms
+hsa-mir-223	Kidney Neoplasms
+hsa-mir-224	Kidney Neoplasms
+hsa-mir-23a	Kidney Neoplasms
+hsa-mir-23b	Kidney Neoplasms
+hsa-mir-24	Kidney Neoplasms
+hsa-mir-25	Kidney Neoplasms
+hsa-mir-26a	Kidney Neoplasms
+hsa-mir-26b	Kidney Neoplasms
+hsa-mir-27a	Kidney Neoplasms
+hsa-mir-27b	Kidney Neoplasms
+hsa-mir-28	Kidney Neoplasms
+hsa-mir-29a	Kidney Neoplasms
+hsa-mir-29b	Kidney Neoplasms
+hsa-mir-29c	Kidney Neoplasms
+hsa-mir-30b	Kidney Neoplasms
+hsa-mir-30c	Kidney Neoplasms
+hsa-mir-30d	Kidney Neoplasms
+hsa-mir-31	Kidney Neoplasms
+hsa-mir-329	Kidney Neoplasms
+hsa-mir-330	Kidney Neoplasms
+hsa-mir-331	Kidney Neoplasms
+hsa-mir-335	Kidney Neoplasms
+hsa-mir-338	Kidney Neoplasms
+hsa-mir-339	Kidney Neoplasms
+hsa-mir-342	Kidney Neoplasms
+hsa-mir-345	Kidney Neoplasms
+hsa-mir-346	Kidney Neoplasms
+hsa-mir-34a	Kidney Neoplasms
+hsa-mir-34b	Kidney Neoplasms
+hsa-mir-34c	Kidney Neoplasms
+hsa-mir-361	Kidney Neoplasms
+hsa-mir-362	Kidney Neoplasms
+hsa-mir-363	Kidney Neoplasms
+hsa-mir-370	Kidney Neoplasms
+hsa-mir-375	Kidney Neoplasms
+hsa-mir-376a	Kidney Neoplasms
+hsa-mir-379	Kidney Neoplasms
+hsa-mir-381	Kidney Neoplasms
+hsa-mir-382	Kidney Neoplasms
+hsa-mir-411	Kidney Neoplasms
+hsa-mir-421	Kidney Neoplasms
+hsa-mir-422a	Kidney Neoplasms
+hsa-mir-423	Kidney Neoplasms
+hsa-mir-424	Kidney Neoplasms
+hsa-mir-425	Kidney Neoplasms
+hsa-mir-429	Kidney Neoplasms
+hsa-mir-432	Kidney Neoplasms
+hsa-mir-433	Kidney Neoplasms
+hsa-mir-451	Kidney Neoplasms
+hsa-mir-452	Kidney Neoplasms
+hsa-mir-455	Kidney Neoplasms
+hsa-mir-483	Kidney Neoplasms
+hsa-mir-484	Kidney Neoplasms
+hsa-mir-486	Kidney Neoplasms
+hsa-mir-487a	Kidney Neoplasms
+hsa-mir-487b	Kidney Neoplasms
+hsa-mir-489	Kidney Neoplasms
+hsa-mir-491	Kidney Neoplasms
+hsa-mir-493	Kidney Neoplasms
+hsa-mir-495	Kidney Neoplasms
+hsa-mir-497	Kidney Neoplasms
+hsa-mir-498	Kidney Neoplasms
+hsa-mir-501	Kidney Neoplasms
+hsa-mir-502	Kidney Neoplasms
+hsa-mir-503	Kidney Neoplasms
+hsa-mir-504	Kidney Neoplasms
+hsa-mir-506	Kidney Neoplasms
+hsa-mir-507	Kidney Neoplasms
+hsa-mir-509	Kidney Neoplasms
+hsa-mir-510	Kidney Neoplasms
+hsa-mir-519e	Kidney Neoplasms
+hsa-mir-532	Kidney Neoplasms
+hsa-mir-545	Kidney Neoplasms
+hsa-mir-572	Kidney Neoplasms
+hsa-mir-574	Kidney Neoplasms
+hsa-mir-575	Kidney Neoplasms
+hsa-mir-584	Kidney Neoplasms
+hsa-mir-598	Kidney Neoplasms
+hsa-mir-615	Kidney Neoplasms
+hsa-mir-628	Kidney Neoplasms
+hsa-mir-629	Kidney Neoplasms
+hsa-mir-638	Kidney Neoplasms
+hsa-mir-652	Kidney Neoplasms
+hsa-mir-660	Kidney Neoplasms
+hsa-mir-663	Kidney Neoplasms
+hsa-mir-671	Kidney Neoplasms
+hsa-mir-7	Kidney Neoplasms
+hsa-mir-766	Kidney Neoplasms
+hsa-mir-9	Kidney Neoplasms
+hsa-mir-92	Kidney Neoplasms
+hsa-mir-92b	Kidney Neoplasms
+hsa-mir-93	Kidney Neoplasms
+hsa-mir-95	Kidney Neoplasms
+hsa-mir-98	Kidney Neoplasms
+hsa-mir-99a	Kidney Neoplasms
+hsa-mir-99b	Kidney Neoplasms
